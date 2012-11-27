@@ -9,7 +9,6 @@ public class Test1 {
 		 System.out.println("in test1");
 		 System.out.println("in test1");
 		 System.out.println("in test1");
-		 System.out.println("in test1");
-	}
+ 	}
 
 }
