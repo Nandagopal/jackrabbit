@@ -7,8 +7,13 @@ public class Test1 {
 	 */
 	public static void main(String[] args) {
 		 System.out.println("in test1");
+<<<<<<< HEAD
 		 System.out.println("in test1");
 		 System.out.println("in test1");
+=======
+		 System.out.println("in test2");
+		 
+>>>>>>> origin/master
  	}
 
 }
