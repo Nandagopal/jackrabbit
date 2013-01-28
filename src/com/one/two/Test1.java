@@ -12,8 +12,8 @@ public class Test1 {
 		 System.out.println("in test4");
 		 System.out.println("in test5");
          	 System.out.println("catch");
-		 System.out.pringln("DDDDDDDDDDD");
-
+		 System.out.println("DDDDDDDDDDD");
+                 System.out.println("kkdkdkdkkkdkd");
 
 
  	}
