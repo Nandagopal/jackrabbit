@@ -23,7 +23,8 @@ public class Test1 {
 		 System.out.println("7777777777777");
                	 System.out.println("8888888888888");
 		 System.out.println("9999999999999");
-		 System.out.pringln("1111222233333");
+		 System.out.println("1111222233333");
+		 System.out.println("9998887776665");
 
  	}
 
